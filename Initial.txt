@@ -1,1 +1,2 @@
 Sample text updated in main
+Updated text in branch1
